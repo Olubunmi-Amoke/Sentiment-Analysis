@@ -24,13 +24,13 @@ Label : The sentiment polarity of the news content
 -1: negative
 
 #### Conclusions and Recommendations
-**Insights from Visualizations:**
+- **Insights from Visualizations:**
 
 Line plots of Open, High, Low, and Close prices show daily fluctuations.
 The dual-axis line plot illustrates the relationship between closing price and trading volume. Sudden spikes in volume often coincide with sharp price movements.
 The countplot shows a higher frequency of neutral sentiments, which could indicate that most news articles are unbiased.
 
-**Business Recommendations:**
+- **Business Recommendations:**
 
 *Leverage Sentiment Trends for Market Predictions*: Use historical sentiment vs. price movement to develop early warning signals for trading decisions.
 
