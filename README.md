@@ -18,10 +18,7 @@ High : The highest stock price (in $) reached during the day
 Low : The lowest stock price (in $) reached during the day
 Close : The adjusted stock price (in $) at the end of the day
 Volume : The number of shares traded during the day
-Label : The sentiment polarity of the news content
-1: positive
-0: neutral
--1: negative
+Label (1: positive, 0: neutral, -1: negative): The sentiment polarity of the news content
 
 #### Conclusions and Recommendations
 - **Insights from Visualizations:**
